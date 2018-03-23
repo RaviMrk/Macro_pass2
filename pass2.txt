@@ -1,0 +1,3 @@
+INCR A,B,C
+ADDS E,F
+SUB D
